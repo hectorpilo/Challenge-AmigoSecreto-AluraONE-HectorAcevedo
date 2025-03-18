@@ -45,7 +45,6 @@ Da un ejemplo
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
